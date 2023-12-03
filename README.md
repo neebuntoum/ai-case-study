@@ -28,3 +28,6 @@ Welcome to the Nail Polish Robots Case Study! This document provides an in-depth
 ### Recomendations
 1. My Advice
 2. Additional Technology
+
+## Overview and Origin
+
