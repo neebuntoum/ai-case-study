@@ -7,15 +7,24 @@ Welcome to the Nail Polish Robots Case Study! This document provides an in-depth
 
 ## Table of Contents
 ### Overview and origin
-1. [About](#about)
-2. [Objective](#objective)
-3. [Funding](#funding)
+1. About
+2. Objective
+3. Funding
 
 ### Business Activities
-1. [About](#about)
-2. [Objective](#objective)
-3. [Funding](#funding)
+1. Problem
+2. Purpose
+3. Solution and Implementation
+### Landscape
+1. Field: Robotics
+2. Trends and Innovations
+3. Competitors
 
+### Results
+1. Impact
+2. Core Metrics
+3. Comparison
 
-
-
+### Recomendations
+1. My Advice
+2. Additional Technology
