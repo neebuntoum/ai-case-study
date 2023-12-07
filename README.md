@@ -57,3 +57,19 @@ Clockwork has revolutionized the nail beauty industry by introducing an automate
 
 ## Recomendations
 I would recommend using a three to five  prong holding device for an existing polish brush. Utilizing more moving parts will allow for a more detailed application closer to human movements. Using existing polish will also reduce initial investment making the robot more attractive to not only high end salons but to salons with minimal working capital. I would also imcorporate a UV/Led light so gel polish can be used instead of a fan to dry polish. Gel polish is the main reason consumers go to salons today. The instant drying polish allows for consumers to continue their on the go lifestyle and the service can be offered at a higher price point giving salons a faster return on the investment. Another improvement is a hand holding platform to consistently hold the persons hand in place. The current strap in method allows too much room for mistakes. I believe that implementing these modifications would enable the machine to adapt more effectively to the current market, particularly given the heightened demand compared to the existing version. The incorporation of soft robotics into this machine will impart a human-like touch, elevating its capabilities to that required for a high-performing nail polishing robot.
+
+
+Works Cited:
+1. https://www.youtube.com/watch?v=7r9c-zwk0QI
+2. https://likeclockwork.com/about/
+3. https://wefunder.com/clockwork
+4. https://www.crunchbase.com/organization/marionet
+5. https://www.bizjournals.com/twincities/bizwomen/news/latest-news/2021/06/clockwork-nail-technology-beauty-popup-startup.html?page=all
+6. https://www.google.com/search?sca_esv=588006686&sxsrf=AM9HkKl_8xRUJ8abKU0-Mugy9x-zLpiDew:1701778927572&q=stackshare+clockwork+nail+robot&spell=1&sa=X&ved=2ahUKEwiC8trDpPiCAxW_M0QIHVxqACMQBSgAegQICRAC&biw=1512&bih=824&dpr=2
+7. https://www.google.com/search?q=top+companies+in+the+robotics+field&oq=top+companies+in+the+robotics+field&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIKCAIQIRgWGB0YHtIBCjEyNjAwajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8
+8. https://www.reddit.com/r/shittykickstarters/comments/124uf40/does_anyone_have_access_to_the_nimble_nail_salon/
+9. https://thegadgetflow.com/portfolio/nimble-at-home-nail-painter-paints-dries-nails-with-press-of-button/https://www.youtube.com/watch?v=Vr6r7zZV0jA
+10. https://www.nimblebeauty.com/pages/our-technology
+11. https://www.allure.com/story/manicure-robot
+12. https://www.cbsnews.com/news/robot-manicures-and-eyelash-extensions-how-a-i-is-attracting-new-beauty-industry-customers/
+  
