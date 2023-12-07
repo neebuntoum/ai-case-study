@@ -33,7 +33,7 @@ Welcome to the Nail Polish Robots Case Study! This document provides an in-depth
         alt="clockwork_logo" 
         width="150" 
         height="150" 
-        style="display: block; margin: 0 auto; align: center" />
+        style="display: block; margin: 0 auto; align: center;" />
 
 Imagine having access to a robot that will polish your nails on demand. No appointments to make. No waiting in the lobby for the next available nail technicion. No more clearing an hour on your schedule anymore. A new startup company named Clockwork has delivered an automated nail polishing machine that can polish your nails in 10 minutes! Clockwork's goal is to free people from everyday tasks. Clockwork was founded October 2018 in San Francisco, previously known as Marionet, and has aquired over $6.2 million dollars from investors. Founder Erik Sunden and co-founders Renuka Apte and Aaron Feldstein are a dedicated team working towards developing revolutionary automation in elegance right to your fingertips.
 
