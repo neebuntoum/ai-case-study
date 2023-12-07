@@ -6,7 +6,7 @@
 Welcome to the Nail Polish Robots Case Study! This document provides an in-depth exploration of the impact and innovations in the realm of nail polish robots. This case study is for  someone interested in the intersection of robotics and personal nail care.  I hope to shed light on the evolution of automation in the nail industry.
 
 ## Table of Contents
-### Overview and origin
+### [Overview and origin](##-overview-and-origin)
 1. About
 2. Objective
 3. Funding
