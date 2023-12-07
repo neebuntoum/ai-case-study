@@ -24,7 +24,7 @@ Welcome to the Nail Polish Robots Case Study! This document provides an in-depth
 2. Core Metrics
 3. Comparison
 
-### [Recomendations](#recomendations)
+[Recomendations](#recomendations)
 1. My Advice
 2. Additional Technology
 
